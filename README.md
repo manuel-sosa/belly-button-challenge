@@ -1,6 +1,7 @@
 # belly-button-challenge
 
 ## **Module 14 Challenge: Belly Button Biodiversity dataset**
+See app.js file for code review: [https://github.com/manuel-sosa/belly-button-challenge/blob/main/StarterCode/static/js/app.js]
 
 The Module 14 Challenge tasks participants with creating an **interactive dashboard** to explore the Belly Button Biodiversity dataset. 
 
